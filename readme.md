@@ -53,7 +53,7 @@ The dimensions of the image to be drawn.
 
 ## Related
 
-- [rect-cover](https://github.com/transitive-bullshit/rect-cover)
+- [rect-cover](https://github.com/transitive-bullshit/rect-cover) is this module's sister, implementing `background-size: cover`.
 - [rect-crop](https://github.com/gre/rect-crop) if you need to mimic rect-cover with a `zoom` ratio and `center` point (eg, for [kenburns effects](https://github.com/gre/kenburns))
 - [css background-size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
 

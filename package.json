@@ -1,6 +1,6 @@
 {
   "name": "rect-contain",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Computes a transform between two rectangles the same way as background-size contain",
   "main": "dist",
   "browser": "dist",
