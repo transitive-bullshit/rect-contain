@@ -2,7 +2,7 @@
 
 > Computes a transform between two rectangles the same way as `background-size: contain`.
 
-[![NPM](https://img.shields.io/npm/v/rect-contain.svg)](https://www.npmjs.com/package/rect-contain) [![Build Status](https://travis-ci.org/transitive-bullshit/rect-contain.svg?branch=master)](https://travis-ci.org/transitive-bullshit/rect-contain) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/rect-contain.svg)](https://www.npmjs.com/package/rect-contain) [![Build Status](https://travis-ci.com/transitive-bullshit/rect-contain.svg?branch=master)](https://travis-ci.com/transitive-bullshit/rect-contain) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Intro
 
